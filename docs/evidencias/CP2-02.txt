@@ -1,0 +1,12 @@
+Ingrese el consumo del día 1 (L): 150
+Ingrese el consumo del día 2 (L): 150
+Ingrese el consumo del día 3 (L): 150
+Ingrese el consumo del día 4 (L): 150
+Ingrese el consumo del día 5 (L): 150
+Ingrese el consumo del día 6 (L): 150
+Ingrese el consumo del día 7 (L): 150
+== Resumen semanal de consumo de agua ==
+Consumo total semanal: 1050.0 L
+Promedio diario: 150.0 L
+Mayor consumo registrado: 150.0 L
+Días que superaron 150.0 L: 0

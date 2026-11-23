@@ -1,0 +1,212 @@
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 1
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 2
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 3
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 4
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 5
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 6
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 7
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 8
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 9
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 10
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 11
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 12
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 13
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 14
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 15
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 16
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 17
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 18
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 19
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 20
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ERROR] Estacionamiento lleno.
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 3
+Espacios ocupados: 20
+Espacios libres: 0
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 5
+
+=== RESUMEN FINAL ===
+Vehículos presentes: 20
+Salidas registradas: 0
+Recaudación total: ₡ 0

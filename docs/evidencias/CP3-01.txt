@@ -1,0 +1,42 @@
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 2
+[ERROR] No hay vehículos en el estacionamiento.
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 3
+Espacios ocupados: 0
+Espacios libres: 20
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 4
+Recaudación total: ₡ 0
+Vehículos que han salido: 0
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 5
+
+=== RESUMEN FINAL ===
+Vehículos presentes: 0
+Salidas registradas: 0
+Recaudación total: ₡ 0

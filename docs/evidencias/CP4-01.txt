@@ -1,0 +1,37 @@
+Suministros iniciales -> Agua: 150.0 L | Alimento: 100.0 unid.
+Ingrese la cantidad de jornadas (1-30): 0
+[ERROR] La cantidad de jornadas debe ser un entero entre 1 y 30
+Ingrese la cantidad de jornadas (1-30): 31
+[ERROR] La cantidad de jornadas debe ser un entero entre 1 y 30
+Ingrese la cantidad de jornadas (1-30): 3
+
+--- JORNADA 1 DE 3 ---
+Disponible al iniciar -> Agua: 150.0 L | Alimento: 100.0 unid.
+Consumo de agua (L): 50
+Consumo de alimento (unid.): 30
+[REGISTRO] Jornada 1 completada.
+Saldo restante -> Agua: 100.0 L | Alimento: 70.0 unid.
+
+--- JORNADA 2 DE 3 ---
+Disponible al iniciar -> Agua: 100.0 L | Alimento: 70.0 unid.
+Consumo de agua (L): 40
+Consumo de alimento (unid.): 30
+[REGISTRO] Jornada 2 completada.
+Saldo restante -> Agua: 60.0 L | Alimento: 40.0 unid.
+
+--- JORNADA 3 DE 3 ---
+Disponible al iniciar -> Agua: 60.0 L | Alimento: 40.0 unid.
+Consumo de agua (L): 30
+Consumo de alimento (unid.): 20
+[REGISTRO] Jornada 3 completada.
+Saldo restante -> Agua: 30.0 L | Alimento: 20.0 unid.
+
+===== INFORME FINAL DE LA EXPEDICIÓN =====
+Estado de la expedición: COMPLETADA EXITOSAMENTE
+Días completados: 3 de 3
+Agua total consumida: 120.0 L
+Alimento total consumido: 80.0 unid.
+Agua restante: 30.0 L
+Alimento restante: 20.0 unid.
+Promedio diario agua: 40.0 L/día
+Promedio diario alimento: 26.67 unid./día

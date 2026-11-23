@@ -1,0 +1,4 @@
+Ingrese la temperatura inicial (°C): 30
+Ingrese la temperatura objetivo (°C): 20
+Ingrese el incremento por ciclo (°C): 5
+Error: La temperatura objetivo debe ser mayor que la inicial.

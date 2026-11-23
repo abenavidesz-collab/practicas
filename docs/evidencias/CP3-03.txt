@@ -1,0 +1,86 @@
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 1
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 1
+[ÉXITO] Ingreso registrado. Vehículos presentes: 2
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 2
+Ingrese las horas por cobrar: 0
+[ERROR] Las horas deben ser mayores que 0.
+Ingrese las horas por cobrar: -2
+[ERROR] Las horas deben ser mayores que 0.
+Ingrese las horas por cobrar: 3
+[ÉXITO] Monto a pagar: ₡ 2400
+Vehículos restantes: 1
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 3
+Espacios ocupados: 1
+Espacios libres: 19
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 2
+Ingrese las horas por cobrar: 1
+[ÉXITO] Monto a pagar: ₡ 800
+Vehículos restantes: 0
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 4
+Recaudación total: ₡ 3200
+Vehículos que han salido: 2
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 7
+[ERROR] Opción no válida. Intente nuevamente.
+
+=== ESTACIONAMIENTO ===
+1. Registrar ingreso
+2. Registrar salida
+3. Consultar ocupación
+4. Consultar recaudación
+5. Salir
+Seleccione una opción (1-5): 5
+
+=== RESUMEN FINAL ===
+Vehículos presentes: 0
+Salidas registradas: 2
+Recaudación total: ₡ 3200

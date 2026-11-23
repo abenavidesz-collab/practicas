@@ -1,0 +1,11 @@
+Ingrese la temperatura inicial (°C): 20
+Ingrese la temperatura objetivo (°C): 35
+Ingrese el incremento por ciclo (°C): 4
+== Inicio de la simulación de calentamiento ==
+Ciclo 1 -> Temperatura: 24.0 °C
+Ciclo 2 -> Temperatura: 28.0 °C
+Ciclo 3 -> Temperatura: 32.0 °C
+Ciclo 4 -> Temperatura: 36.0 °C
+== Resultados de la simulación ==
+Temperatura final alcanzada: 36.0 °C
+Total de ciclos ejecutados: 4

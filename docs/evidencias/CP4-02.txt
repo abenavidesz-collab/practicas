@@ -1,0 +1,36 @@
+Suministros iniciales -> Agua: 150.0 L | Alimento: 100.0 unid.
+Ingrese la cantidad de jornadas (1-30): 5
+
+--- JORNADA 1 DE 5 ---
+Disponible al iniciar -> Agua: 150.0 L | Alimento: 100.0 unid.
+Consumo de agua (L): 200
+[ERROR] El consumo excede el agua disponible: 150.0 L
+Consumo de agua (L): -1
+[ERROR] El consumo de agua debe ser una cantidad positiva mayor a 0.
+Consumo de agua (L): 100
+Consumo de alimento (unid.): 0
+[ERROR] El consumo de alimento debe ser una cantidad positiva mayor a 0.
+Consumo de alimento (unid.): 150
+[ERROR] El consumo excede el alimento disponible: 100.0 unid.
+Consumo de alimento (unid.): 60
+[REGISTRO] Jornada 1 completada.
+Saldo restante -> Agua: 50.0 L | Alimento: 40.0 unid.
+
+--- JORNADA 2 DE 5 ---
+Disponible al iniciar -> Agua: 50.0 L | Alimento: 40.0 unid.
+Consumo de agua (L): 50
+Consumo de alimento (unid.): 30
+[REGISTRO] Jornada 2 completada.
+Saldo restante -> Agua: 0.0 L | Alimento: 10.0 unid.
+[ALERTA CRÍTICA] Uno o más suministros se han agotado por completo.
+No es posible continuar al día siguiente. Interrumpiendo expedición...
+
+===== INFORME FINAL DE LA EXPEDICIÓN =====
+Estado de la expedición: INTERRUMPIDA ANTICIPADAMENTE POR AGOTAMIENTO DE SUMINISTROS
+Días completados: 2 de 5
+Agua total consumida: 150.0 L
+Alimento total consumido: 90.0 unid.
+Agua restante: 0.0 L
+Alimento restante: 10.0 unid.
+Promedio diario agua: 75.0 L/día
+Promedio diario alimento: 45.0 unid./día
